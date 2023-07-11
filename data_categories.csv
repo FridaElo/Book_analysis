@@ -1,0 +1,1001 @@
+number_of_authors,categories,number_of_books
+23391,['Fiction'],23419
+9349,['Religion'],9459
+9273,['History'],9330
+6476,['Juvenile Fiction'],6643
+6307,['Biography & Autobiography'],6324
+5594,['Business & Economics'],5625
+4299,['Computers'],4312
+3803,['Social Science'],3834
+3331,['Juvenile Nonfiction'],3446
+2584,['Science'],2623
+2493,['Education'],2611
+2399,['Cooking'],2445
+2250,['Sports & Recreation'],2267
+2173,['Family & Relationships'],2178
+2131,['Literary Criticism'],2147
+2046,['Medical'],2079
+2041,"['Body, Mind & Spirit']",2049
+2026,['Language Arts & Disciplines'],2036
+2024,['Health & Fitness'],2030
+2023,['Music'],2106
+2011,['Art'],2054
+1949,['Political Science'],1955
+1907,['Psychology'],1913
+1848,['Philosophy'],1864
+1775,['Travel'],1812
+1651,['Technology & Engineering'],1662
+1514,['Self-Help'],1519
+1479,['Poetry'],1500
+1381,['Foreign Language Study'],1404
+1334,['Crafts & Hobbies'],1350
+1300,['Performing Arts'],1305
+1254,['Reference'],1277
+1168,['Mathematics'],1185
+1134,['Nature'],1146
+1088,['Comics & Graphic Novels'],1162
+943,['Architecture'],963
+909,['Transportation'],921
+873,['Law'],895
+790,['Humor'],799
+717,['Photography'],756
+691,['Antiques & Collectibles'],697
+678,['Drama'],685
+621,['Pets'],630
+620,['Bible'],667
+598,['Literary Collections'],607
+594,['Young Adult Fiction'],595
+536,['Games'],545
+523,['Gardening'],532
+464,['Study Aids'],473
+442,['Games & Activities'],446
+415,['House & Home'],419
+372,['True Crime'],372
+364,['English language'],416
+346,['American literature'],737
+340,['Bibles'],406
+335,['United States'],387
+318,['Design'],322
+248,['Great Britain'],268
+242,"[""Children's stories""]",252
+229,['Detective and mystery stories'],235
+212,['Animals'],221
+202,['Christian life'],206
+178,"['World War, 1939-1945']",183
+177,['English fiction'],179
+176,['African Americans'],185
+158,['Copyright'],160
+137,['American poetry'],143
+137,['American fiction'],139
+119,['Adventure stories'],122
+119,['Science fiction'],130
+112,['Conduct of life'],114
+112,['Indians of North America'],118
+111,['England'],112
+108,['France'],120
+107,['Frontier and pioneer life'],107
+102,['Children'],126
+100,['California'],102
+96,"['Authors, American']",107
+95,['Electronic books'],100
+94,['China'],97
+92,['English poetry'],95
+90,['Cats'],101
+87,['Large type books'],96
+84,['Dogs'],90
+84,"['Comic books, strips, etc']",98
+81,"['Science fiction, American']",82
+80,['Families'],84
+80,"[""Children's literature""]",107
+79,['Young Adult Nonfiction'],79
+79,['Europe'],85
+74,['Christianity'],79
+73,['Jews'],80
+73,['Brothers and sisters'],76
+69,"['Authors, English']",69
+69,['Germany'],71
+67,['Economics'],69
+66,['Communism'],68
+65,['Presidents'],67
+64,['Africa'],67
+64,['Actors'],65
+63,['Canada'],82
+63,['Artists'],64
+62,['American wit and humor'],62
+61,['Railroads'],78
+61,['Birds'],67
+58,['English literature'],68
+56,['Japan'],58
+56,['Church history'],58
+55,['Crime'],57
+54,['Spanish language'],60
+54,['Automobiles'],74
+53,['Adventure and adventurers'],56
+53,['Chess'],61
+52,['Biography'],62
+51,['Agriculture'],67
+51,"['American wit and humor, Pictorial']",52
+51,['FICTION'],51
+51,['Dungeons and Dragons (Game)'],54
+51,['India'],55
+50,['Christmas stories'],55
+50,['Medicine'],63
+50,['Motion picture actors and actresses'],50
+50,['Americans'],51
+50,"['Bibliography, National']",65
+49,['Child rearing'],50
+49,['Generals'],49
+49,['Civilization'],49
+48,"['Cooking, American']",57
+48,['Astrology'],49
+48,['Buddhism'],51
+47,['Folklore'],57
+47,['Greece'],47
+47,['America'],50
+47,['Fairy tales'],58
+47,['Country life'],49
+46,['Authorship'],46
+46,"['World War, 1914-1918']",50
+46,['Business'],65
+45,['Australia'],58
+44,['English drama'],46
+44,['American drama'],44
+44,['Astronomy'],47
+43,['Mormon Church'],47
+43,['Egypt'],45
+43,"['Detective and mystery stories, American']",45
+42,['Occultism'],43
+42,['Horses'],50
+42,['Apologetics'],43
+42,['Fantasy fiction'],57
+42,['Baptists'],43
+42,['Friendship'],45
+41,['Alaska'],42
+41,['Women'],48
+41,['Readers'],45
+40,['Baseball'],44
+40,['Firearms'],42
+40,['Ireland'],42
+39,['Bears'],42
+38,['Fiction in English'],38
+38,['Murder'],38
+38,['Prayer'],39
+38,['Man-woman relationships'],40
+37,['Authors'],90
+37,['British'],37
+36,['Islam'],40
+36,['Aeronautics'],54
+35,['Airplanes'],39
+35,['Composers'],36
+35,"['Fantasy fiction, American']",36
+35,['Gay men'],35
+35,['Christian fiction'],35
+34,['Fantasy'],35
+34,['Chicago (Ill.)'],37
+34,"['Vietnam War, 1961-1975']",35
+34,['Marriage'],35
+33,"[""Children's poetry""]",40
+33,['Cancer'],34
+33,['Cookbooks'],35
+33,['Rock musicians'],35
+33,['Cookery'],34
+33,['Ethnology'],33
+32,['Boys'],35
+32,['Russia'],32
+32,['Self-actualization (Psychology)'],32
+32,['Domestic fiction'],32
+32,['Success'],32
+31,['Algebra'],34
+31,['Spiritual life'],31
+31,['Short stories'],36
+31,['Fantasy games'],34
+30,['Curiosities and wonders'],38
+30,['Ghosts'],30
+30,['Biology'],34
+30,['Christmas'],34
+29,"['Architecture, Domestic']",33
+29,['Rome'],30
+29,['Football'],29
+29,['Board books'],31
+29,['Exercise'],29
+29,['Chemistry'],31
+29,['Florida'],31
+29,['German language'],34
+29,['Popular literature'],31
+29,['Botany'],29
+29,['Physics'],31
+28,['Evolution'],28
+28,['Advertising'],31
+28,['Locomotives'],29
+28,['New York (N.Y.)'],28
+28,['Political science'],33
+28,['Love'],30
+28,['Motion pictures'],34
+28,['Death'],28
+28,['Computer networks'],31
+28,['Adolescence'],29
+28,"['Civilization, Modern']",28
+28,['JUVENILE FICTION'],28
+28,['Historical fiction'],28
+27,"['Theology, Doctrinal']",27
+27,['Fishing'],31
+27,"['Holocaust, Jewish (1939-1945)']",28
+27,['Horror tales'],27
+27,['Horsemanship'],27
+27,['Missions'],29
+27,['Scotland'],28
+27,"[""Children's stories, English""]",29
+27,"['Detective and mystery stories, English']",27
+27,['Soviet Union'],27
+26,['Christian biography'],27
+26,['Geology'],29
+26,['Magic'],28
+26,"['Airplanes, Military']",28
+26,['Literature'],32
+26,['FAMILY & RELATIONSHIPS'],26
+26,['Freemasonry'],27
+26,['Adultery'],26
+26,['Ethics'],26
+25,['Poland'],26
+25,['Aesthetics'],26
+25,['Mexico'],26
+25,['Automobile racing'],33
+25,"['Catalogs, Union']",27
+25,['Clothing and dress'],27
+25,['Dolls'],27
+25,['Interpersonal relations'],25
+25,['Missionaries'],25
+25,['Boats and boating'],28
+25,['Natural history'],26
+24,['Japanese language'],26
+24,['Golf'],25
+24,['Architects'],25
+24,['Mysticism'],25
+24,['Love stories'],25
+24,['Business enterprises'],26
+23,"['Finance, Personal']",24
+23,['Cowboys'],23
+23,['Christianity and other religions'],24
+23,['Language and languages'],27
+23,['Health'],29
+23,['God'],23
+23,['Christian Science'],23
+23,['French language'],26
+23,['Handicraft'],25
+23,['Spain'],28
+23,['Government publications'],37
+23,['Decoration and ornament'],25
+23,['Unidentified flying objects'],24
+23,['Capitalism'],24
+23,['Asia'],29
+22,['Christian saints'],23
+22,['Consciousness'],22
+22,['Diet'],23
+22,['New Thought'],22
+22,['Animal behavior'],22
+22,['Meditation'],22
+22,['Hand weaving'],23
+22,['Libraries'],91
+22,['Psychoanalysis'],22
+22,['Dwellings'],22
+22,['Graphic novels'],23
+22,['Banks and banking'],27
+22,['College readers'],23
+21,['Ghost stories'],26
+21,['Feminism'],23
+21,['Soldiers'],21
+21,['Cities and towns'],21
+21,['Hawaii'],22
+21,['Hiking'],21
+21,['Archaeology'],24
+21,['Kentucky'],21
+21,['Judaism'],22
+21,['Marketing'],21
+21,['Popular music'],23
+21,['Dreams'],22
+21,['Criminals'],21
+21,['Israel'],22
+21,['Brothers'],22
+21,['Arthurian romances'],25
+21,['Dragons'],21
+21,"['Bible stories, English']",23
+20,['Aging'],23
+20,['Large print books'],20
+20,['Electronic book'],23
+20,['Birthdays'],21
+20,['Communication'],20
+20,['New England'],20
+20,['Criticism'],20
+20,['Interior decoration'],24
+20,"['Civilization, Medieval']",20
+20,['Baking'],24
+20,['Sex'],20
+20,['Caricatures and cartoons'],21
+20,['Camping'],20
+20,['Journalism'],21
+20,['Abortion'],20
+20,['Confederate States of America'],20
+19,['Child development'],19
+19,['Slavery'],19
+19,['Constitutional law'],19
+19,['Colorado'],21
+19,['Accounting'],24
+19,['Atlases'],26
+19,['Lawyers'],21
+19,['Dating (Social customs)'],20
+19,['Life on other planets'],19
+19,['Conservatism'],19
+19,['Constitutional history'],19
+19,['Academic writing'],19
+19,['Democracy'],19
+18,['Fighter pilots'],18
+18,['Latin language'],20
+18,"['Photography, Artistic']",19
+18,['Philosophers'],19
+18,"[""Children's stories, American""]",20
+18,"['Beauty, Personal']",21
+18,['Catholics'],18
+18,['Contract bridge'],18
+18,['Criminal defense lawyers'],18
+18,['Girls'],18
+18,['Admirals'],18
+18,['Alternative medicine'],19
+18,['Western stories'],18
+18,['Knitting'],20
+18,['Hunting'],18
+18,['Acting'],19
+18,['Texas'],19
+18,['African American women'],19
+18,['Alcoholics'],19
+18,['JUVENILE NONFICTION'],18
+18,['Romance fiction'],18
+18,['Byzantine Empire'],19
+18,['Painters'],19
+18,['Encyclopedias and dictionaries'],56
+18,['Italy'],20
+17,"['Science fiction, English']",17
+17,['BIOGRAPHY & AUTOBIOGRAPHY'],17
+17,['Drugs'],21
+17,['HISTORY'],17
+17,['Meditations'],17
+17,['Investments'],17
+17,['North Carolina'],18
+17,['Alphabet'],20
+17,['Arizona'],18
+17,['Karate'],18
+17,['Iran'],18
+17,['Jazz'],20
+17,['Socialism'],18
+17,['Buddha (The concept)'],17
+17,['Angels'],17
+17,['Heroes'],18
+17,['Evangelistic work'],19
+17,['Lesbians'],17
+17,['Devotional calendars'],19
+17,['City and town life'],17
+17,['Mormons'],17
+17,['Calculus'],17
+17,['Businessmen'],18
+17,['Bereavement'],17
+17,['AIDS (Disease)'],17
+16,['College students'],17
+16,['Painting'],16
+16,['Theology'],16
+16,['Drawing'],17
+16,['French fiction'],16
+16,['Austria'],17
+16,['Cuba'],16
+16,['Computer programming'],16
+16,['Hinduism'],17
+16,['Selling'],17
+16,['Computer graphics'],16
+16,['Parapsychology'],16
+16,"['Korean War, 1950-1953']",16
+16,['Etiquette'],18
+16,['Coins'],16
+16,['Food'],17
+16,['Arabian Peninsula'],16
+16,['Central America'],16
+16,['Logic'],17
+16,['Piano'],17
+16,['Canvas embroidery'],17
+16,['BASIC (Computer program language)'],17
+16,"['Knowledge, Theory of']",17
+16,['Arctic regions'],16
+15,['Rock music'],16
+15,['Cake decorating'],15
+15,['Police'],15
+15,['Crocheting'],18
+15,['Farm life'],16
+15,['Amusements'],16
+15,['Motion picture plays'],18
+15,['Journalists'],15
+15,['Atonement'],15
+15,['Apache Indians'],15
+15,['Alabama'],15
+15,['Toy and movable books'],15
+15,"['Art, Modern']",15
+15,"['Short stories, American']",16
+15,['Tarot'],15
+15,['Men'],16
+15,['Corporations'],16
+15,['Football players'],15
+15,['Georgia'],16
+15,['Dance'],16
+15,['Musicals'],16
+15,['Behavior'],15
+15,['Yoga'],15
+15,['Netherlands'],17
+15,['Church and state'],15
+15,['Building'],15
+15,['Java (Computer program language)'],19
+15,['Connecticut'],18
+14,['Wine and wine making'],15
+14,['Human beings'],14
+14,['Devotional literature'],14
+14,['Blind'],21
+14,['Americanisms'],14
+14,['Actresses'],14
+14,['Conspiracies'],14
+14,['Divorce'],14
+14,['Insects'],14
+14,['Legends'],16
+14,['Books and reading'],14
+14,['Monographic series'],29
+14,['Best books'],29
+14,['Dinosaurs'],17
+14,['Southern States'],16
+14,['Afghanistan'],14
+14,['Aboriginal Australians'],14
+14,['Christian education'],14
+14,['Shorthand'],14
+14,['Latin America'],20
+14,['Human anatomy'],15
+14,['Antisemitism'],16
+14,['Books'],104
+14,"['Hollywood (Los Angeles, Calif.)']",14
+14,['Genealogy'],17
+14,['Hypnotism'],14
+14,['Christian ethics'],14
+14,['Database management'],15
+14,['Theosophy'],15
+14,"['Civilization, Ancient']",14
+13,['Air pilots'],13
+13,['Pennsylvania'],15
+13,['Arab-Israeli conflict'],13
+13,['Gold mines and mining'],14
+13,['Horse racing'],14
+13,['Anthropology'],15
+13,['Religions'],13
+13,['Rabbits'],13
+13,['Halloween'],13
+13,['Clergy'],13
+13,"['Science fiction comic books, strips, etc']",15
+13,"['Aeronautics, Military']",13
+13,['Fathers and sons'],14
+13,['Application software'],14
+13,['Geography'],20
+13,['Massachusetts'],15
+13,['Spirit writings'],13
+13,['Manners and customs'],13
+13,['Social sciences'],16
+13,['Comedians'],14
+13,['International relations'],13
+13,['Management'],14
+13,['Cults'],13
+13,['Costume'],13
+13,['Operas'],14
+13,['Dakota Indians'],13
+13,['Statesmen'],17
+13,['English essays'],13
+13,['Geometry'],13
+12,['Book of Mormon'],12
+12,['Internet'],13
+12,['Fishes'],15
+12,['Guitar'],13
+12,['Baseball players'],12
+12,['Canoes and canoeing'],13
+12,['Atlantis'],12
+12,['Butterflies'],13
+12,['Microsoft Windows (Computer file)'],14
+12,['Adoption'],14
+12,['Cosmology'],12
+12,['Middle East'],13
+12,['Creative ability'],12
+12,['Aquarium fishes'],21
+12,['Child abuse'],12
+12,['Future life'],12
+12,['Judges'],13
+12,"['Mythology, Classical']",12
+12,['Erotic stories'],13
+12,['Theater'],12
+12,['Greek language'],12
+12,['Leadership'],12
+12,['Argentina'],13
+12,['Russian language'],13
+12,['Crusades'],12
+12,['Astronautics'],14
+12,['London (England)'],14
+12,['Burma'],13
+12,['Tales'],12
+12,['RELIGION'],12
+12,['Celts'],14
+12,['Homosexuality'],12
+12,['Childbirth'],12
+12,['Cousins'],12
+12,['Embroidery'],12
+12,['Immigrants'],12
+12,['Good and evil'],13
+12,['Fairies'],13
+12,['Hatha yoga'],12
+11,['Library catalogs'],11
+11,['Aunts'],12
+11,"['Hymns, English']",16
+11,['Industrial management'],13
+11,['Radio'],14
+11,['Demonology'],11
+11,['Baptism'],12
+11,['Bread'],13
+11,['Color'],11
+11,['Automobile travel'],12
+11,['Emperors'],11
+11,['Chile'],11
+11,['Computer software'],13
+11,['Fairy tales.'],11
+11,['Criminal investigation'],11
+11,['Human-alien encounters'],11
+11,['Drug abuse'],11
+11,['Seventh-Day Adventists'],11
+11,['Flowers'],11
+11,['Counting'],13
+11,['Gardens'],11
+11,['Indiana'],12
+11,['Infants'],12
+11,['Calvinism'],11
+11,['Hebrew language'],12
+11,['Character'],11
+11,['Discoveries in geography'],12
+11,['Australian fiction'],11
+11,['Mass media'],12
+11,['Flags'],11
+11,"['Authors, Irish']",13
+11,['Physicians'],11
+11,['Circus'],12
+11,['Prisoners of war'],11
+11,"['Asia, Central']",11
+11,['Bible stories'],11
+11,['Shipwrecks'],11
+11,['Atomic bomb'],11
+11,['Creative thinking'],11
+11,['African American musicians'],11
+11,"[""Children's songs""]",12
+11,['Explorers'],11
+11,['Dressmaking'],17
+11,['Herbs'],11
+11,['Cornwall (England : County)'],11
+11,['Fear'],11
+11,['Celebrities'],12
+11,"['Africa, East']",11
+11,['Chinese language'],15
+11,['Deep diving'],13
+11,['Depressions'],11
+11,['Arab countries'],11
+11,['Maryland'],11
+11,['Oregon'],11
+11,['Fly fishing'],11
+11,['Holy Spirit'],11
+11,['Public speaking'],11
+11,['English imprints'],14
+11,['Italian language'],13
+11,['Tennis'],11
+10,['Violin'],10
+10,['Mercenary troops'],10
+10,['Holiness'],10
+10,['Antarctica'],10
+10,['Alchemy'],10
+10,['Brain'],11
+10,['Basketball'],10
+10,['Private investigators'],10
+10,"[""Children's encyclopedias and dictionaries""]",11
+10,['Interplanetary voyages'],11
+10,['Intelligence service'],10
+10,['Readers (Primary)'],11
+10,"['Short stories, English']",10
+10,['Mythology'],13
+10,['Magic tricks'],11
+10,['Brazil'],11
+10,['South Africa'],10
+10,['Faith'],10
+10,['Military art and science'],14
+10,['Birth control'],10
+10,['Comedy'],10
+10,"['Art, American']",12
+10,"['Novelists, English']",10
+10,['Louisiana'],11
+10,['Mice'],10
+10,"[""Children's poetry, English""]",10
+10,['Adopted children'],10
+10,['Creative activities and seat work'],11
+10,['Young adult fiction'],10
+10,['Children with disabilities'],13
+10,['Schools'],10
+10,['Reducing diets'],11
+10,"[""Children's poetry, American""]",10
+10,['Elephants'],10
+10,['Singers'],10
+10,"['Cooking, Italian']",10
+10,['Mental healing'],10
+10,['Evangelists'],10
+10,['Employee motivation'],10
+10,['Crime and criminals'],10
+10,['Bookbinding'],10
+10,['Beer'],10
+10,['Animal welfare'],11
+10,['Antiques'],11
+10,['Caribbean Area'],10
+10,['Bildungsromans'],10
+10,['Maine'],11
+10,['Humorous stories'],10
+10,['Air travel'],12
+10,['Turkey'],11
+9,['Sea stories'],9
+9,['Rock groups'],10
+9,"[""Apostles' Creed""]",9
+9,['Home economics'],15
+9,['Fathers and daughters'],9
+9,"['Catalogs, Subject']",9
+9,['Bedtime'],9
+9,"[""Alzheimer's disease""]",9
+9,"['Africa, West']",9
+9,['Knights and knighthood'],9
+9,['Bishops'],9
+9,['Paris (France)'],9
+9,"['Poets, English']",9
+9,['Business communication'],11
+9,['CD-ROMs'],16
+9,['Cemeteries'],10
+9,['Conversion'],10
+9,['Eretz Israel'],9
+9,['Grandmothers'],9
+9,['Thailand'],9
+9,"['Horror tales, American']",9
+9,['Eskimos'],10
+9,['Fascism'],9
+9,['Mexican Americans'],10
+9,"['Cooking, French']",9
+9,['Income tax'],10
+9,['COMICS & GRAPHIC NOVELS'],10
+9,['Spiritual healing'],9
+9,['Buildings'],10
+9,['Television'],9
+9,['Creative writing'],9
+9,['Estate planning'],9
+9,['Frogs'],9
+9,['Civil service'],11
+9,['Consumer education'],10
+9,['Technology'],10
+9,['Merchant marine'],10
+9,"['History, Modern']",9
+9,['Excavations (Archaeology)'],9
+9,['Mathematical recreations'],10
+9,['Bird watching'],9
+9,['Courtship'],12
+9,['Businesswomen'],9
+9,['Photographers'],10
+9,['Reading'],10
+9,['Martial arts'],9
+9,['Sailing'],10
+9,['Aristocracy (Social class)'],9
+9,['Espionage'],9
+9,['Furniture'],16
+9,['Arabic language'],9
+9,['Cheyenne Indians'],9
+9,['Bahai Faith'],9
+9,['Arts'],18
+9,['Mystery and detective stories'],9
+9,['Child care'],10
+9,['Holocaust survivors'],9
+9,['Happiness'],9
+9,['Wit and humor'],10
+9,['Bed and breakfast accommodations'],9
+9,['Jerusalem'],9
+9,['Engineering'],20
+9,['Computer science'],11
+9,['Educational tests and measurements'],9
+9,"['Air pilots, Military']",9
+9,['Boston (Mass.)'],9
+9,['English wit and humor'],9
+9,['Brigands and robbers'],10
+9,['Electronic data processing personnel'],10
+9,['Mental illness'],9
+9,['Anger'],9
+9,['Robots'],9
+9,['Cinematography'],10
+9,['Developing countries'],9
+9,['Emotions'],9
+9,['Real estate business'],9
+9,['Ethiopia'],10
+9,['Amphibians'],9
+9,['Sports'],11
+8,['Nursing'],10
+8,"['Mythology, Greek']",9
+8,['People with disabilities'],9
+8,['Marine biology'],8
+8,['Vampires'],9
+8,['Historic buildings'],8
+8,['Popes'],8
+8,['Civil rights'],8
+8,['Self-realization'],8
+8,['Business ethics'],9
+8,['Anxiety'],8
+8,['Audiobooks'],186
+8,"['Animals, Mythical']",8
+8,['Adolescent psychology'],9
+8,['Intelligence officers'],8
+8,['Pentecostalism'],8
+8,['Caves'],8
+8,['Authors and publishers'],8
+8,['Abused children'],9
+8,['Athens (Greece)'],8
+8,['Crossword puzzles'],8
+8,['Canning and preserving'],8
+8,['Covenant theology'],8
+8,"['Botany, Medical']",8
+8,['Babies'],8
+8,['Virginia'],8
+8,"['Pearl Harbor (Hawaii), Attack on, 1941']",8
+8,['Assassins'],8
+8,['Devil'],8
+8,['Motherhood'],8
+8,['SAT (Educational test)'],10
+8,['New Orleans (La.)'],9
+8,['Adjustment (Psychology)'],8
+8,['Anarchism'],8
+8,['Aircraft accidents'],8
+8,['Extraterrestrial beings'],8
+8,['Breast'],8
+8,['Cows'],8
+8,['Industries'],11
+8,['Inventions'],9
+8,['Ocean liners'],8
+8,['Abandoned children'],9
+8,['Extrasensory perception'],8
+8,['Deaf'],8
+8,['Foxes'],9
+8,['MEDICAL'],8
+8,['Clocks and watches'],8
+8,['Early childhood education'],9
+8,['City planning'],10
+8,['Air'],8
+8,['Pirates'],8
+8,['Inheritance and succession'],8
+8,['Cabala'],9
+8,"[""Presidents' spouses""]",8
+8,['Concentration camps'],8
+8,['Vocabulary'],10
+8,['Sabbath'],8
+8,['Client/server computing'],11
+8,['Language arts (Elementary)'],8
+8,['Electricity'],8
+8,['Haiti'],8
+8,['Heart'],8
+8,"['Ballads, English']",9
+8,['Hockey'],8
+8,['Bars (Drinking establishments)'],9
+8,['Hotels'],8
+8,['House buying'],8
+8,['Escapes'],8
+8,['Toys'],8
+8,['British Columbia'],9
+8,"[""Children's stories, American.""]",9
+8,['Cape Cod (Mass.)'],8
+8,"['Formulas, recipes, etc']",9
+8,['Investment analysis'],8
+8,['Sailing ships'],8
+8,['Memory'],8
+8,['Arkansas'],8
+8,['Christian poetry'],8
+8,['Indonesia'],9
+8,['Diet therapy'],8
+8,"['Cooking, Chinese']",9
+8,"['Statesmen, American']",8
+8,['Hindu philosophy'],9
+8,"['Abnormalities, Human']",8
+8,['Bullying'],9
+8,['Behavior modification'],9
+8,['Mountaineering'],10
+8,['Nursery rhymes'],8
+8,['Businesspeople'],8
+8,['Economic history'],9
+8,"['National characteristics, American']",8
+8,"['Criminal justice, Administration of']",9
+8,['Motion picture producers and directors'],8
+8,['Patchwork'],9
+8,['Christian leadership'],9
+8,['Diabetes'],8
+8,['Abused women'],8
+8,['Los Angeles (Calif.)'],10
+8,['New Zealand'],9
+8,['Religion and science'],9
+8,['Existentialism'],8
+8,['Parent and child'],8
+8,['Opera'],8
+8,['Baths'],8
+8,['Alcoholism'],9
+7,['International cooking'],7
+7,['COOKING'],7
+7,"[""Jehovah's Witnesses""]",7
+7,['Construction industry'],9
+7,['Subject catalogs'],7
+7,['Marine animals'],7
+7,['Aircraft carriers'],7
+7,"['Anatomy, Artistic']",7
+7,['Anatomy'],7
+7,['Entertainers'],7
+7,['Holistic medicine'],7
+7,['Amazon River'],7
+7,['Spies'],7
+7,['Aromatherapy'],8
+7,['Belgium'],7
+7,"['Israel-Arab War, 1967']",7
+7,['Iraq'],7
+7,['Chiropractic'],7
+7,['Bible and science'],8
+7,['Bridges'],7
+7,['Broadcasting'],7
+7,['American essays'],9
+7,['Capital'],7
+7,['Castles'],9
+7,['Command of troops'],7
+7,['Criminal law'],8
+7,['Entertaining'],9
+7,['Counseling'],7
+7,['Dysfunctional families'],7
+7,['Life'],7
+7,['Customer services'],7
+7,['General semantics'],7
+7,['Autism'],7
+7,"['Authors, German']",7
+7,['Beijing (China)'],8
+7,['Woodwork'],9
+7,['High schools'],7
+7,['Horror films'],7
+7,['Society of Friends'],8
+7,['Internal medicine'],7
+7,['Historians'],7
+7,['Blacks'],7
+7,['Homeopathy'],7
+7,['Apartheid'],7
+7,['Pastoral theology'],7
+7,['Germans'],7
+7,"['Sermons, American']",7
+7,['Harmony'],7
+7,['Artificial intelligence'],7
+7,['Spiritualism'],8
+7,['Documentary photography'],7
+7,['ART'],7
+7,['Cattle'],8
+7,['Indic fiction (English)'],7
+7,"['Chemistry, Organic']",7
+7,['Charms'],7
+7,['Autobiography'],7
+7,['Navigation'],7
+7,['Astoria (Or.)'],7
+7,"['Africa, North']",8
+7,['Children of clergy'],7
+7,['Anthroposophy'],7
+7,['Mediums'],7
+7,['Plane trigonometry'],7
+7,"['Fantasy fiction, English']",7
+7,['Lutheran Church'],8
+7,"['Philosophy, Modern']",7
+7,"['Names, Personal']",7
+7,['Communication in marriage'],7
+7,['Statistics'],7
+7,['Book industries and trade'],23
+7,['Planets'],7
+7,['Illinois'],8
+7,['Big game hunting'],7
+7,"['Erotic stories, American']",9
+7,['Active server pages'],12
+7,"['Adventure stories, English']",7
+7,['Sailors'],7
+7,['East Asia'],7
+7,['Autobiographical fiction'],7
+7,['Capitalists and financiers'],8
+7,['American newspapers'],7
+7,['Antiquities'],8
+7,['Alexander technique'],7
+7,['Change (Psychology)'],8
+7,['Jewish ethics'],7
+7,['African American authors'],7
+7,['Mental health'],7
+7,['Feng shui'],7
+7,"['Art, French']",7
+7,['Bee culture'],8
+7,['Talking books'],8
+7,['Utopias'],7
+7,['Indians'],8
+7,['Sanskrit language'],7
+7,['C (Computer program language)'],7
+7,['Conservation of natural resources'],11
+7,['Probabilities'],7
+7,['Electronic commerce'],9
+7,['Batman (Fictitious character)'],8
+7,['Boarding schools'],7
+7,['Governors'],8
+7,['Impressionism (Art)'],7
+7,['Appliqué'],8
+7,['Canadian fiction'],7
+7,['Christian converts from Judaism'],7
+7,['Civil procedure'],7
+7,['Christian education of children'],7
+7,['Child psychology'],7
+7,"[""Artists' books""]",8
+7,['Jiu-jitsu'],7
+7,"['Cookery, Italian']",7
+7,['Labor'],7
+7,['Hero worship'],7
+7,['Electronics'],9
+7,['Norway'],7
+7,['Bicycles'],7
+7,['Japanese'],7
+7,['Critical thinking'],7
+7,['African American men'],7
+7,['Spy stories'],7
+7,['Jazz musicians'],7
+7,['Immortality'],7
+7,"['Africa, Central']",7
+7,['Musicians'],7
+7,"['Ardennes, Battle of the, 1944-1945']",7
+7,['Social history'],7
+7,['Ballet dancing'],7
+7,['Chivalry'],7
+7,['Nutrition'],7
+7,['Amish'],8
+7,['Coloring books'],8
+7,['Clothing trade'],7
+7,['HEALTH & FITNESS'],7
+7,['Salvation'],7
+7,['Legislators'],8
+7,['Employees'],7
+7,['Nobility'],7
+7,['Lighthouses'],7
+7,['Grace (Theology)'],7
+7,"['Detective and mystery comic books, strips, etc']",7
+7,['Computer games'],10
+7,['Archery'],8
+7,"['Appleby, John, Sir (Fictitious character)']",7
+7,['Reading (Elementary)'],9
+7,['Soccer'],7
+7,['Thought and thinking'],7
+7,['Sociology'],7
+7,['Czechoslovakia'],7
+7,['Fantasy.'],7
+7,['Sufism'],8
+7,['Science fiction.'],7
+7,['Sweden'],7
+7,['Relativity (Physics)'],7
+7,['Gambling'],7
+7,['Philippines'],7
+7,['Personality'],7
+7,['Fighter planes'],8
+6,['Business consultants'],6
+6,['Cooking (Vegetables)'],7
+6,['High school students'],7
+6,['Evangelistic sermons'],6
+6,['Forests and forestry'],10
+6,['New York (State)'],7
+6,['Occupations'],9
+6,['Eye'],6
+6,['Diseases'],6
+6,['Evidence (Law)'],6
+6,['Indian mythology'],6
+6,['Fantasy in art'],6
+6,['Haggadah'],7
+6,['Reformation'],6
+6,['Methodist Church'],7
+6,['Peace'],7
+6,['Historic sites'],6
+6,"['Painting, Modern']",6
+6,['Scientology'],6
