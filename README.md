@@ -10,15 +10,15 @@ _DATA FROM_: https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?
 For this process the tool used was SQL on Google cloud
 
 The first query was mande to get the number of authors and book on each categories and to order the results in descending order, the results were limted to show the first 1000
-`SELECT distinct count(authors) AS number_of_authors, categories, count(Title) as number_of_books
+`SELECT distinct count(authors) AS number_of_authors, categories, count(Title) as number_of_books`
 
-FROM corded-essence-389317.BOOKS_P.data
+`FROM corded-essence-389317.BOOKS_P.data`
 
-WHERE categories IS NOT NULL
+`WHERE categories IS NOT NULL`
 
-GROUP BY categories
+`GROUP BY categories`
 
-ORDER BY number_of_authors desc
+`ORDER BY number_of_authors desc`
 
-LIMIT 1000`
+`LIMIT 1000`
  
