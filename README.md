@@ -1,3 +1,6 @@
 # Books analisys
-This work is made to analyse trends on the amazon book reviews dataset found on kaggle 
-The teme of exploration is what category of books has better reviews scores and anlyse the trends regarding the book reviews.
+This work is made to analyse trends on the amazon book reviews dataset found on kaggle
+
+In this project we will know what category of books has better reviews scores and what are the trends regarding the book reviews.
+This will be measured by calculating the average review score of each category (limit 1000), the average time the users gave to the review, how helpfull was the review and how many authors and books are in those categories.
+
