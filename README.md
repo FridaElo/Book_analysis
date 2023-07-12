@@ -6,9 +6,9 @@ This project was made to analyse metrics of amazon books regarding the number of
 <sub> DATA FROM: https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=books_data.csv <sub>
 
 ### The cleaning and data processing
-_Data info can be found in Kaggle.
+_Data info can be found in Kaggle._
 
-The first table has information on the books and the second table was focused on the review info._
+_The first table has information on the books and the second table was focused on the review info._
 
 The first query was mande to get the number of authors and book on each genre and to order the results in descending order, the results were limted to show the first 1000. 
 
