@@ -3,12 +3,12 @@ This work is made to analyse trends on the amazon book reviews dataset found on 
 
 This project was made to analyse metrics of amazon books regarding the number of reviews, authors by categories and the average review rate of each. Also includes other relevant metrics. All of them were calculatede using SQL in google cloud.
 
-_DATA FROM_: https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=books_data.csv 
+<sub> DATA FROM: https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=books_data.csv <sub>
 
 ### The cleaning and data processing
-Data info can be found in Kaggle.
+_Data info can be found in Kaggle.
 
-The first table has information on the books and the second table was focused on the review info.
+The first table has information on the books and the second table was focused on the review info._
 
 The first query was mande to get the number of authors and book on each genre and to order the results in descending order, the results were limted to show the first 1000. 
 
