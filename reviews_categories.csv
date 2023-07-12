@@ -1,0 +1,1001 @@
+avg_score,categories,number_of_reviews
+4.1136118014795482,['Fiction'],824439
+4.4537683938672661,['Juvenile Fiction'],207542
+4.2589084431909905,['Biography & Autobiography'],107791
+4.3381343397766088,['Religion'],98035
+4.2322531893141306,['History'],89988
+4.1222682800451107,['Business & Economics'],65618
+3.9621489045586396,['Computers'],42403
+4.1169541709577757,['Social Science'],31072
+4.3975246696772032,['Cooking'],29895
+4.2327765823001018,['Family & Relationships'],29277
+4.4186269146608286,['Juvenile Nonfiction'],29248
+4.3935288656603522,['Self-Help'],29083
+4.2441913122234984,['Young Adult Fiction'],28707
+4.2997636272473319,"['Body, Mind & Spirit']",27922
+4.2885683461861195,['Health & Fitness'],25027
+4.2281384066396681,['Science'],24941
+3.8604447173369585,['Political Science'],22801
+4.3111756431780028,['Sports & Recreation'],22039
+4.1823384311790832,['Philosophy'],20270
+4.2752664461595007,['Education'],19047
+4.2503265128428405,['Psychology'],18376
+4.38819785941568,['Literary Criticism'],17285
+4.09141274238227,['Travel'],16606
+4.2300472653612422,['Language Arts & Disciplines'],14810
+4.3861331110184816,['Drama'],14394
+4.2717168141592916,['Music'],14125
+4.3356909270666986,['Comics & Graphic Novels'],13149
+4.3388132742009464,['Crafts & Hobbies'],13078
+4.1615149196633512,['Humor'],13070
+4.3720440177944262,['Art'],12813
+4.04980485321568,['True Crime'],11786
+4.0620351736809859,['Foreign Language Study'],11429
+4.20029253130999,['Reference'],10939
+4.300443049658484,['Medical'],10834
+4.25803329461866,['Performing Arts'],10332
+4.325026769200818,['Nature'],10273
+4.4161539212813752,['Poetry'],10239
+4.0708263069139967,['Technology & Engineering'],8302
+4.3075425159028944,['Pets'],7703
+4.5487193386637736,['Adventure stories'],7379
+4.0916585161380459,['Mathematics'],7157
+4.165055762081785,['Audiobooks'],6725
+3.9422294548413346,['Games & Activities'],6145
+4.3986230636833055,['Bibles'],5810
+4.3161349134001821,['Photography'],5485
+4.1197582860281994,['FICTION'],5461
+4.4270910436713535,"[""Children's stories""]",5404
+4.2619919090733962,['American literature'],5191
+4.3617601246105915,['Literary Collections'],5136
+4.1581508515815093,['Book burning'],4932
+4.0946527350952664,['Law'],4881
+4.1678496868476,['Games'],4790
+4.2044924772197492,['Detective and mystery stories'],4719
+4.1725413402959086,['Transportation'],4596
+4.2542372881355925,['Architecture'],4189
+4.1758019701944908,['House & Home'],3959
+3.8669538773441454,['Study Aids'],3946
+4.2422760041194634,['England'],3884
+4.3056872037914671,['Bible'],3798
+4.0973691347979377,['Architects'],3687
+4.405888827738031,['Gardening'],3634
+4.5657561250352012,['Brothers'],3551
+3.8544520547945194,['Dragons'],3504
+4.2130862767805439,['California'],3454
+4.1845029239766083,['Antiques & Collectibles'],3420
+4.3617777777777782,['American fiction'],3375
+4.4105744125326369,['Animals'],3064
+4.5252115059221651,['Fantasy fiction'],2955
+3.8359806629834252,['Adultery'],2896
+4.4608378870673953,['African Americans'],2745
+4.07842401500938,['Capitalism'],2665
+4.729677914110427,['Existential psychotherapy'],2608
+4.19007263922518,['Africa'],2478
+4.57828894269572,"['Baggins, Bilbo (Fictitious character)']",2478
+4.5774363121714519,"['Baggins, Frodo (Fictitious character)']",2473
+4.1661197703035269,['English language'],2438
+4.1950515463917526,['English fiction'],2425
+4.6631445477599325,['Christmas stories'],2366
+4.235294117647058,['Great Britain'],2329
+3.5854100589034892,['Characters and characteristics in literature'],2207
+4.1625316455696195,['Executions and executioners'],1975
+4.2561601642710452,['Adventure and adventurers'],1948
+4.2455590386624875,['United States'],1914
+4.5637513171759769,['Totalitarianism'],1898
+4.5893054024255795,['Bullying'],1814
+4.1498065229408523,['Horror tales'],1809
+4.1529411764705877,['American Dream'],1785
+4.3196166854565945,['Design'],1774
+4.152532726237907,"['Manhattan (New York, N.Y.)']",1757
+4.4908647990255783,['Bildungsromans'],1642
+4.49047931713723,['Charity-schools'],1523
+4.2446236559139781,['Character'],1488
+4.3525127458120911,['Antiquarian booksellers'],1373
+4.398952095808383,"[""Children's literature""]",1336
+4.3460656990068758,['Fables'],1309
+4.4494909945184045,['FAMILY & RELATIONSHIPS'],1277
+3.9874509803921563,['Chicago (Ill.)'],1275
+4.2760252365930596,['Families'],1268
+4.4885620915032662,['Young Adult Nonfiction'],1224
+4.3388357949609038,['High interest-low vocabulary books'],1151
+4.0488245931283879,['Boarding schools'],1106
+4.3421052631578938,['Brothers and sisters'],1102
+4.2945454545454522,['France'],1100
+4.06355140186916,['Foundlings'],1070
+4.8157894736842106,['AReproductive health'],1064
+4.2686849574266787,['Electronic books'],1057
+4.1431279620853081,['Animal behavior'],1055
+4.1232227488151665,['Copyright'],1055
+4.1511068334937438,"['Authors, American']",1039
+4.1910447761194014,['Science fiction'],1005
+4.4414414414414418,['Children'],999
+4.3440320962888652,['Fiction in English'],997
+4.0667351129363443,['Christianity'],974
+3.4884210526315789,['Predation (Biology)'],950
+4.28848223896663,"['World War, 1939-1945']",929
+4.1065022421524668,['Economics'],892
+3.9578587699316623,['Good and evil'],878
+4.378440366972475,['Monographic series'],872
+4.5198598130841132,['Jewish fiction'],856
+4.5304449648711955,['Business ethics'],854
+4.3405275779376487,['Botswana'],834
+4.207434052757792,['Americans'],834
+4.0569007263922519,['Germany'],826
+4.5895249695493288,['Christian life'],821
+4.4051724137931023,['Conduct of life'],812
+4.408188585607939,['Murder'],806
+3.8461538461538463,['Books and reading'],806
+4.407022106631989,"['Cannery Row (Monterey, Calif.)']",769
+4.32421875,['Pirates'],768
+4.0811518324607334,['Frankenstein (Fictitious character)'],764
+4.25,['Fantasy'],756
+4.452,['Readers'],750
+3.9247606019151857,['Large type books'],731
+3.9821182943603857,['Alienation (Social psychology)'],727
+2.9342657342657348,"['Cookery, French']",715
+4.113569321533924,['Authors'],678
+4.4135893648449,['Greek language'],677
+4.3511111111111127,['Dogs'],675
+4.7196401799100443,['Reading (Elementary)'],667
+4.3233082706766943,['Presidents'],665
+4.257186081694404,"['Detective and mystery stories, English']",661
+2.1984848484848483,['Intelligence officers'],660
+3.84984520123839,['Historical fiction'],646
+4.1064162754303606,['Criticism'],639
+3.9749216300940442,['Ayla (Fictitious character)'],638
+4.0094043887147333,['Adopted children'],638
+4.3111111111111109,['Boys'],630
+4.5207667731629408,['Country life'],626
+3.9676375404530742,['Apologetics'],618
+3.9770491803278678,['Union catalogs'],610
+4.2079207920792072,['Robots'],606
+4.1840796019900495,['Mexico'],603
+4.57335581787521,['New Thought'],593
+3.9103214890016913,['Colombia'],591
+4.3747870528109045,['Alligators'],587
+4.194539249146759,['Atonement'],586
+4.4204152249134951,['Child rearing'],578
+3.8726003490401393,['Books'],573
+4.4903339191564138,['English poetry'],569
+4.3901581722319873,['Criminal investigation'],569
+4.4045936395759719,['Europe'],566
+4.4973451327433631,['Canada'],565
+3.975221238938051,['Arthurian romances'],565
+4.502722323049,['Ethnology'],551
+4.0381125226860233,"['Ahab, Captain (Fictitious character)']",551
+4.1933701657458551,['Paperbacks'],543
+4.1420664206642073,['Agriculture'],542
+4.4222222222222207,['American poetry'],540
+4.2542056074766359,['Domestic fiction'],535
+4.1969696969696955,['China'],528
+4.4440227703984823,['Rationalism'],527
+4.3810444874274648,['Egypt'],517
+3.9825918762088981,['Courage'],517
+4.3385518590998053,['Amish'],511
+4.6282306163021882,['Humorous stories'],503
+4.7243460764587537,"[""Children's poetry""]",497
+4.5213849287169046,['Horses'],491
+4.0743801652892548,['Aeronautics'],484
+4.4161490683229809,['American wit and humor'],483
+4.2484342379958253,['Libraries'],479
+4.0835073068893513,['Earthsea (Imaginary place)'],479
+4.3270440251572326,"['Comic books, strips, etc']",477
+4.333333333333333,['Scotland'],477
+4.2863157894736839,['Fairy tales'],475
+3.7236286919831216,['Socialism'],474
+3.9094827586206904,['BIOGRAPHY & AUTOBIOGRAPHY'],464
+4.1778741865509756,['Children of clergy'],461
+4.2173913043478244,['Criminals'],460
+3.8384279475982543,['Business'],458
+4.2280701754385976,['Brain'],456
+4.3169642857142874,['College teachers'],448
+4.2600896860986541,['Catholics'],446
+3.9685393258426975,['Apprentices'],445
+4.215730337078651,"['Science fiction, American']",445
+3.8941441441441436,['Administration of estates'],444
+4.3806306306306295,['English literature'],444
+4.4875283446711993,['Banks and banking'],441
+4.1464530892448526,['Absurd (Philosophy)'],437
+4.1002331002330994,['Discworld (Imaginary place)'],429
+4.3844339622641515,['Indirect discourse in literature'],424
+4.0945626477541373,"['Catalogs, Union']",423
+4.2809523809523808,['JUVENILE FICTION'],420
+4.42857142857143,['Yoga'],420
+4.4617224880382764,['Frontier and pioneer life'],418
+4.2043269230769234,['Chess'],416
+3.6682692307692308,['Museum visitors'],416
+4.7107843137254894,['Audio-visual education'],408
+3.9047619047619051,['Computer networks'],399
+4.0251889168765747,['Assassination'],397
+4.3816793893129784,['Communism'],393
+4.8076923076923075,"['Holocaust, Jewish (1939-1945)']",390
+4.033505154639176,['Crime'],388
+4.50518134715026,['Board books'],386
+4.4207792207792211,['Medicine'],385
+4.3947368421052637,['Friendship'],380
+4.39153439153439,['Conversion'],378
+4.1626666666666665,['Evolution'],375
+4.3919999999999995,"[""Children's poetry, American""]",375
+4.3101604278074852,['Narnia (Imaginary place)'],374
+4.5806451612903212,['Cats'],372
+4.2675675675675677,['Indians of North America'],370
+4.768392370572208,['Baking'],367
+3.9696969696969697,['Military art and science'],363
+4.60055096418733,['Birds'],363
+3.70391061452514,['Asia'],358
+4.364672364672364,['Classical fiction'],351
+3.9022988505747129,['Java (Computer program language)'],348
+4.40057636887608,['Self-actualization (Psychology)'],347
+4.1598837209302344,"['Spanish-American War, 1898']",344
+4.1999999999999993,['English'],340
+4.0414201183431953,['Spanish language'],338
+3.3134328358208958,"[""Children's stories, New Zealand""]",335
+4.7357357357357373,['Devotional calendars'],333
+4.4108761329305128,['Forensic psychology'],331
+4.3920972644376883,['Care of the sick'],329
+4.1815384615384623,['British'],325
+3.7647058823529407,"['Campion, Albert (Fictitious character)']",323
+3.9124999999999996,['Dysfunctional families'],320
+4.71383647798742,['Self-publishing'],318
+4.6190476190476195,['Calvinism'],315
+4.1560509554140124,['Dungeons and Dragons (Game)'],314
+4.1656050955414017,['Atomic bomb'],314
+4.4458598726114662,['Israel'],314
+4.2459546925566345,['American drama'],309
+4.5533980582524274,"[""Children's plays, American""]",309
+4.5737704918032769,['Bears'],305
+3.9504950495049505,['English drama'],303
+3.0264900662251661,['Marine pollution'],302
+3.926910299003322,['Australia'],301
+4.368770764119601,['Rama (Imaginary space vehicle)'],301
+4.1063122923588047,['Algebra'],301
+4.2691029900332236,"['Marple, Jane (Fictitious character)']",301
+4.1133333333333315,['Actors'],300
+4.1966666666666663,['American newspapers'],300
+4.3050847457627111,['Drummers (Musicians)'],295
+4.1972789115646236,['Canon (Literarature)'],294
+4.351535836177475,['Biology'],293
+4.368055555555558,['Japan'],288
+4.1881533101045267,['Political science'],287
+4.3578947368421037,['Baseball'],285
+4.4666666666666677,['Christian fiction'],285
+4.4199288256227751,['Cerebral dominance'],281
+4.4377224199288259,['Authorship'],281
+4.039568345323743,['Conversation'],278
+4.582733812949642,"['Carbohydrates, Refined']",278
+3.9057971014492745,['Marriage'],276
+3.7971014492753614,['Man-woman relationships'],276
+4.4472727272727282,"['Horror tales, American']",275
+4.0254545454545445,['Inheritance and succession'],275
+3.8823529411764715,['Rock musicians'],272
+4.4981549815498179,['Serial murderers'],271
+4.518518518518519,['Cancer'],270
+4.4104477611940291,['Love stories'],268
+4.0674157303370793,['Generals'],267
+3.9135338345864654,['Relativity (Physics)'],266
+4.4849624060150379,['French fiction'],266
+3.9433962264150941,['New York (N.Y.)'],265
+4.0568181818181843,['Graphic novels'],264
+4.4318181818181825,['Buddhism'],264
+4.5019011406844109,['Admirals'],263
+3.9087452471482886,"['Beauty, Personal']",263
+4.3587786259541978,['City and town life'],262
+3.896946564885496,['African American women'],262
+3.8807692307692307,['Analysis of variance'],260
+4.0538461538461554,['Mississippi River'],260
+4.6486486486486491,"['American wit and humor, Pictorial']",259
+4.7159533073929962,['Hatha yoga'],257
+4.3346303501945522,['Islam'],257
+3.9609374999999991,['America'],256
+4.2755905511811019,"['Finance, Personal']",254
+4.1929133858267722,['Kidnapping'],254
+4.3464566929133861,"[""Children's libraries""]",254
+3.8134920634920637,"['Hollywood (Los Angeles, Calif.)']",252
+4.6772908366533859,['Governesses'],251
+3.892,['Database management'],250
+3.6477732793522275,['Application software'],247
+4.8906882591093126,['Cookies'],247
+4.4655870445344137,['Abandoned children'],247
+3.6585365853658529,['Educational psychology'],246
+4.2571428571428571,['Netherlands'],245
+4.444897959183673,['Jews'],245
+4.5142857142857151,['Dating (Social customs)'],245
+3.5247933884297518,['Identity (Psychology)'],242
+4.47107438016529,"['Bond, James (Fictitious character)']",242
+4.3636363636363651,['Artists'],242
+4.6694214876033042,['Sea stories'],242
+4.3195020746887982,['Church history'],241
+4.3858921161825721,['Behavior'],241
+4.2916666666666661,['Arranged marriage'],240
+4.4166666666666661,['Alcoholics'],240
+3.9915254237288127,['Marketing'],236
+4.55744680851064,['Prayer'],235
+4.5128205128205128,['Community health aides'],234
+4.06008583690987,['Medical education'],233
+4.3318965517241379,"['Bibliography, National']",232
+4.1637931034482767,['Motion picture actors and actresses'],232
+4.6724137931034484,['Mutiney'],232
+4.3577586206896548,['Cowboys'],232
+4.44396551724138,['Private investigators'],232
+4.0432900432900425,['Arctic regions'],231
+4.1956521739130439,['Audiotapes'],230
+4.660869565217391,['Life'],230
+4.3436123348017635,['Businessmen'],227
+4.6858407079646023,['Paramaribo (Suriname)'],226
+4.3849557522123908,['Boats and boating'],226
+4.1199999999999992,['Folklore'],225
+4.4999999999999982,['Encyclopedias and dictionaries'],224
+4.8243243243243246,['Escapes'],222
+4.2837837837837851,['Automobiles'],222
+4.45,['Japanese language'],220
+3.8940092165898612,['Black humor'],217
+4.3364055299539173,['Mormon Church'],217
+4.134883720930234,"['Cooking, American']",215
+4.0140186915887854,['Nature study'],214
+3.896713615023474,['Interior decoration'],213
+4.3098591549295779,['Developing countries'],213
+4.0758293838862549,['Adolescence'],211
+4.1000000000000005,['Ethics'],210
+4.6095238095238109,['Groundwater'],210
+4.1057692307692308,['Life on other planets'],208
+4.0241545893719826,['Austria'],207
+4.1941747572815533,['Shipwreck survival'],206
+4.799019607843138,['Veterinarians'],204
+3.5882352941176467,['Papacy'],204
+4.235294117647058,['Cosmology'],204
+4.4827586206896548,['Upper class'],203
+4.6268656716417915,['Spiritual life'],201
+4.2799999999999994,['Adoptees'],200
+3.7989690721649478,['Diners (Restaurants)'],194
+4.078947368421054,['Career education (Primary)'],190
+4.0631578947368423,['Editions'],190
+4.41578947368421,['Child development'],190
+4.4867724867724865,"['Short stories, Austrian']",189
+3.9999999999999996,['Avarice'],189
+4.04787234042553,['Homosexuality'],188
+4.1010638297872335,['Child psychology'],188
+4.1968085106382969,"['Detective and mystery stories, American']",188
+4.8288770053475947,['Fur trade'],187
+4.4648648648648646,['Hawaii'],185
+4.3243243243243237,['Actresses'],185
+3.9351351351351354,['Occultism'],185
+4.3641304347826084,['Buddha (The concept)'],184
+4.483695652173914,['Vampires'],184
+4.5846994535519121,['Amusements'],183
+4.3333333333333339,['Soldiers'],183
+4.1803278688524612,['Curiosities and wonders'],183
+4.5846994535519121,['Cookery'],183
+3.8626373626373627,['Abortion'],182
+4.1878453038674026,['Hoodlums'],181
+3.5138121546961329,['Antarctica'],181
+3.9392265193370162,['MEDICAL'],181
+4.2625698324022343,"['Authors, English']",179
+4.2905027932960893,['Animal experimentation'],179
+4.3407821229050283,['Civilization'],179
+4.044692737430168,['Corporations'],179
+3.9719101123595504,['Chemistry'],178
+4.3446327683615831,['Fighter pilots'],177
+4.323863636363634,['Biography'],176
+4.5371428571428574,['Exercise'],175
+4.5714285714285712,['Mormons'],175
+4.5428571428571427,['Cookbooks'],175
+4.3371428571428581,['Astronomy'],175
+4.24,['Ireland'],175
+4.2171428571428571,['Mice'],175
+3.9080459770114939,['Drug abuse'],174
+4.3505747126436791,['Baptists'],174
+4.3662790697674394,['Assassins'],172
+4.2456140350877192,['India'],171
+4.2470588235294118,['Christmas'],170
+4.4761904761904763,['Clothing and dress'],168
+4.1676646706586808,['BASIC (Computer program language)'],167
+3.3233532934131729,['Forgiveness'],167
+4.4251497005988023,['Alaska'],167
+4.1437125748502988,['Russia'],167
+4.25301204819277,['Gay men'],166
+3.672727272727272,['Active server pages'],165
+4.0424242424242429,['Christian civilization'],165
+4.2848484848484842,['Apache Indians'],165
+4.830303030303031,['Evangelistic work'],165
+4.29090909090909,['Automobile travel / United States'],165
+4.2727272727272707,['Belgium'],165
+3.7682926829268286,['Calculus'],164
+3.8711656441717794,['Accountants'],163
+3.4691358024691361,"['Ghost stories, American']",162
+4.4876543209876543,['Motivation (Psychology)'],162
+4.3580246913580227,['Bodybuilding'],162
+4.2732919254658377,"[""Children's poetry, English""]",161
+4.5527950310559016,['Poland'],161
+3.9125000000000005,['Best books'],160
+4.4125,"['Crawford, Francis (Fictitious character)']",160
+4.3836477987421372,['Popular literature'],159
+4.5534591194968561,['Success'],159
+3.0759493670886071,['Anti-Jewish propaganda'],158
+4.2484076433121007,['War stories'],157
+4.2611464968152859,['Ghosts'],157
+4.1794871794871806,['Human-alien encounters'],156
+4.3076923076923075,['Knitting'],156
+3.916129032258064,['Short stories'],155
+4.1096774193548384,['Female friendship'],155
+4.4967741935483883,['African American civil rights workers'],155
+4.2142857142857162,['Firearms'],154
+4.220779220779221,['Confederate States of America'],154
+4.6103896103896105,['Horsemanship'],154
+4.14935064935065,['Women'],154
+4.5197368421052646,['Selling'],152
+4.427631578947369,['Greece'],152
+4.0599999999999987,['Consciousness'],150
+4.7266666666666666,['Blind'],150
+4.5838926174496653,"['Hotels, motels, etc']",149
+4.5000000000000009,"['Vietnam War, 1961-1975']",148
+3.5753424657534247,['Feminism'],146
+4.2465753424657535,['Fairies'],146
+4.6301369863013671,['Seventh-Day Adventists'],146
+4.287671232876713,['Computer graphics'],146
+3.7448275862068958,['Bondage (Sexual behavior)'],145
+4.0827586206896562,['Elves'],145
+4.7986111111111107,['Accelerated readers'],144
+4.041666666666667,['Christian saints'],144
+4.1250000000000009,['Dwellings'],144
+4.0279720279720275,"['Civilization, Medieval']",143
+4.65034965034965,['Leadership'],143
+4.8881118881118883,['Dominican Republic'],143
+4.4195804195804209,['Biographical fiction'],143
+3.7972027972027971,['Client/server computing'],143
+4.3802816901408459,['Publishers and publishing'],142
+4.1901408450704221,['Drugs'],142
+4.02127659574468,['Motion pictures'],141
+4.6142857142857139,['Honesty'],140
+4.485714285714284,"['Beresford, Tommy (Fictitious character)']",140
+4.32857142857143,['Costa Rica'],140
+4.5179856115107908,['Fishing'],139
+4.5107913669064743,['Love'],139
+4.2589928057553941,"['Hymns, English']",139
+4.4637681159420293,['Paranormal romance stories'],138
+4.4130434782608683,"[""Children's stories, American""]",138
+4.459854014598541,['Anti-clericalism'],137
+4.5255474452554729,['Railroads'],137
+4.2352941176470589,['German language'],136
+4.3382352941176476,['Library catalogs'],136
+4.38235294117647,['Men'],136
+4.4222222222222207,['Food'],135
+4.3999999999999986,['Antiquities'],135
+3.9776119402985071,['Impostors and imposture'],134
+4.1940298507462677,['Archers'],134
+4.1641791044776131,['Soviet Union'],134
+4.4925373134328366,['Atlases'],134
+3.7518796992481209,['AIDS (Disease)'],133
+4.661654135338348,['Hinduism'],133
+4.1954887218045132,['Cape Cod (Mass.)'],133
+4.43609022556391,['Ho Chi Minh City (Vietnam)'],133
+4.16793893129771,"['New Deal, 1933-1939']",131
+3.0458015267175571,['Sex'],131
+4.0,['Latin language'],131
+4.1755725190839694,['Human-computer interaction'],131
+4.4045801526717572,['Emperors'],131
+4.4153846153846139,['Chivalry'],130
+3.9769230769230774,"['World War, 1914-1918']",130
+4.1384615384615389,['Bishops'],130
+3.1692307692307686,['HISTORY'],130
+4.8,['Bereavement'],130
+4.4230769230769242,['Conservatism'],130
+4.2868217054263553,['English imprints'],129
+4.5193798449612377,['Mystery and detective stories'],129
+4.5937499999999991,"['Fantasy fiction, American']",128
+4.2421874999999991,['Health'],128
+4.2656250000000027,['Czechoslovakia'],128
+4.1875,['Melancholy'],128
+2.90625,['Holocaust denial literature'],128
+4.377952755905512,['Eccentrics and eccentricities'],127
+3.25984251968504,['Oglala Indians'],127
+4.5039370078740166,['Anthologies'],127
+3.9047619047619047,['Business enterprises'],126
+3.8719999999999994,['Antisemitism'],125
+4.576,['Death'],125
+4.4677419354838719,"['Cadfael, Brother (Fictitious character)']",124
+3.8225806451612905,['Physics'],124
+4.282258064516129,['Spain'],124
+4.3495934959349611,['Rome'],123
+4.154471544715447,['Beauty contests'],123
+4.5365853658536581,['Dakota Territory'],123
+4.2113821138211378,['Computer programming'],123
+4.254098360655739,['Saint Paul (Minn.)'],122
+3.6311475409836067,['Investments'],122
+4.4672131147541,['Multilevel marketing'],122
+4.0495867768595044,['Christian pilgrims and pilgrimages'],121
+4.5666666666666682,['Advanced placement programs (Education)'],120
+4.4,"['Battle, Superintendent (Fictitious character)']",120
+4.275,['Electronics'],120
+3.825,"['National characteristics, American']",120
+4.4833333333333325,"['Doinel, Antoine (Fictitious character)']",120
+4.4453781512605035,['Kauai (Hawaii)'],119
+4.1596638655462188,['Anglican converts'],119
+4.4033613445378155,['Emotions'],119
+3.3193277310924372,['Best friends'],119
+3.134453781512605,['Stock price forecasting'],119
+4.6722689075630264,['Crimes without victims'],119
+4.3728813559322042,['Competition (Psychology)'],118
+4.0423728813559325,['Diplomatic and consular service'],118
+4.4406779661016946,['Astrology'],118
+4.5982905982905971,['Electronic journals'],117
+4.0598290598290605,['Government publications'],117
+4.3076923076923066,['Cookery.'],117
+4.4482758620689662,['Aquarium fishes'],116
+4.0344827586206895,['Pakistan'],116
+4.6206896551724137,['Behavior disorders in children'],116
+4.0172413793103443,['Florida'],116
+4.3103448275862082,['Attempted murder'],116
+4.4396551724137936,['Diet'],116
+4.3478260869565206,"[""Artists' materials""]",115
+4.321739130434783,['Christian ethics'],115
+4.5438596491228074,"[""Children's stories, English""]",114
+3.8245614035087727,['Erotic stories'],114
+3.5263157894736845,['Computer animation'],114
+4.5087719298245608,['Central America'],114
+4.3421052631578938,['Animal communication'],114
+4.0087719298245617,['Biographers'],114
+4.3097345132743348,['Magic'],113
+4.557522123893806,['Dreams'],113
+4.2477876106194676,['Interpersonal relations'],113
+3.8761061946902653,['Historians'],113
+4.1339285714285721,['Audio equipment industry'],112
+4.2767857142857135,['Camping'],112
+3.7321428571428577,"['Knowledge, Theory of']",112
+4.4553571428571432,['Georgia'],112
+4.24107142857143,['Businesswomen'],112
+4.5945945945945965,"['Mexican War, 1846-1848']",111
+4.2162162162162158,"['Short stories, American']",111
+4.3243243243243246,['Lesbians'],111
+4.5135135135135132,['Romance fiction'],111
+4.54954954954955,['Badgers'],111
+4.2342342342342345,['Christianity and other religions'],111
+4.3783783783783816,"['Anatomy, Artistic']",111
+4.6454545454545446,['Tibet (China)'],110
+4.2727272727272734,['Celebrities'],110
+4.1272727272727261,['Rock music'],110
+4.1636363636363631,['Americanisms'],110
+4.1926605504587178,['Criminal defense lawyers'],109
+3.8990825688073403,['Church and state'],109
+4.4128440366972486,"['Africa, Sub-Saharan']",109
+4.2752293577981648,['Bambi (Fictitious character)'],109
+3.89908256880734,"['44 Scotland Street (Edinburgh, Scotland : Imaginary place)']",109
+4.2129629629629655,['Baseball players'],108
+4.2037037037037051,['Unidentified flying objects'],108
+4.629629629629628,['Theology'],108
+4.185185185185186,['Babysitters'],108
+3.7196261682242993,['Health education'],107
+4.4622641509433958,['Advertising'],106
+4.301886792452831,"['Love stories, American']",106
+4.5754716981132066,['Industrial management'],106
+4.6603773584905648,['Karate'],106
+4.1523809523809518,['French language'],105
+3.9333333333333336,"['Finance, Public']",105
+4.3619047619047606,['Golf'],105
+4.41904761904762,['Havana (Cuba)'],105
+4.1428571428571432,"['Gordon Riots, 1780']",105
+4.6153846153846159,['Judaism'],104
+3.9711538461538463,['JUVENILE NONFICTION'],104
+2.923076923076922,['Deluge'],104
+4.1456310679611663,['Blair Witch Project (Motion picture)'],103
+4.349514563106796,['Literature'],103
+4.1067961165048539,['Handicraft'],103
+4.3203883495145634,"['Science fiction, British']",103
+4.6310679611650478,['Ghost stories'],103
+3.882352941176471,['Diazepam'],102
+4.3725490196078427,['Athens (Greece)'],102
+4.3137254901960773,['Fantasy games'],102
+4.1176470588235317,['Dog breeds'],102
+4.3529411764705879,"['Theology, Doctrinal']",102
+4.6633663366336631,['Circus'],101
+2.9306930693069311,['Charters'],101
+4.2178217821782171,['Low-carbohydrate diet'],101
+2.95049504950495,['Electronic data processing personnel'],101
+4.0594059405940595,['Atlantis'],101
+3.9400000000000004,"['Africa, Central']",100
+3.72,['Engineering'],100
+4.0600000000000005,['Aesthetics'],100
+4.32,['Atlanta (Ga.)'],100
+3.9800000000000004,['Schools'],100
+4.1919191919191912,['Human anatomy'],99
+4.4949494949494948,['Blizzards'],99
+4.1515151515151514,['High school students'],99
+4.4183673469387763,['Electronic book'],98
+4.4897959183673484,['Guineafowl'],98
+4.5714285714285721,['Air pilots'],98
+4.79591836734694,"['Asad, Muhammad, 1900-']",98
+4.3877551020408161,['Alexandria (Egypt)'],98
+3.4387755102040809,['Bible and evolution'],98
+4.4897959183673475,['Bibliography'],98
+4.4795918367346932,['Christian biography'],98
+4.8659793814433,['Buildings'],97
+4.2577319587628857,"['Dallas, Eve (Fictitious character)']",97
+4.1752577319587632,['Cargo ships'],97
+4.3333333333333339,['Children with disabilities'],96
+4.6250000000000009,['Autobiographical fiction'],96
+4.0842105263157888,['Computer games'],95
+4.6631578947368437,['Cabala'],95
+4.5263157894736858,['Brazil'],95
+3.9684210526315797,['Freemasonry'],95
+4.0212765957446805,['Composers'],94
+3.9999999999999991,['College readers'],94
+4.3510638297872326,['International relations'],94
+4.1914893617021267,['Psychoanalysis'],94
+4.6914893617021276,['Mysticism'],94
+4.2872340425531918,['Christian Science'],94
+4.354838709677419,['Creative ability'],93
+4.21505376344086,['Czech fiction'],93
+4.2258064516129048,"['Brooklyn (New York, N.Y.)']",93
+4.4239130434782616,['Contract bridge'],92
+4.2826086956521738,['Gilgamesh'],92
+3.8478260869565211,['Australian fiction'],92
+4.586956521739129,['Voyages and travels'],92
+2.9347826086956519,['Infants (Newborn)'],92
+4.0652173913043477,['Hebrew language'],92
+4.2717391304347831,"['Korean War, 1950-1953']",92
+4.1413043478260878,['Language and languages'],92
+4.0879120879120876,['Elephants'],91
+4.9120879120879124,['Devotional literature'],91
+4.5164835164835155,['Caricatures and cartoons'],91
+3.5384615384615388,['Italian Language-Instruction'],91
+4.6703296703296706,['Christian leadership'],91
+4.0659340659340684,['Jewelers'],91
+4.2197802197802181,['Aboriginal Australians'],91
+4.4555555555555557,['Sailors'],90
+3.822222222222222,['Electronic commerce'],90
+4.8333333333333321,['Natural history'],90
+4.1011235955056193,"['Fuentes de Oñoro, Battle of, Fuentes de Oñoro, Spain, 1811']",89
+3.6516853932584272,"['Women authors, Irish']",89
+4.213483146067416,['Indiana'],89
+4.3409090909090917,['Hand-to-hand fighting'],88
+4.6136363636363633,['African American criminals'],88
+3.8295454545454541,['Theosophy'],88
+3.0113636363636367,['Probabilities'],88
+3.9318181818181812,['Indo-European antiquities'],88
+4.0681818181818175,['Amnesia'],88
+4.1363636363636349,"['Statesmen, American']",88
+4.2272727272727266,['Leisure class'],88
+2.4090909090909092,['Computer hackers'],88
+3.9540229885057472,['Computer industry'],87
+4.0574712643678152,['Microsoft Windows (Computer file)'],87
+4.3103448275862073,['Arizona'],87
+3.9885057471264367,['Florence (Italy)'],87
+3.839080459770114,['Child care'],87
+3.60919540229885,['Brand name products'],87
+4.5000000000000009,['Mythology'],86
+4.6162790697674412,['Desserts'],86
+4.7325581395348859,['Motion picture industry'],86
+4.0930232558139519,['Accounting'],86
+4.3255813953488378,['Appalachian Trail'],86
+4.2906976744186052,['Arab-Israeli conflict'],86
+4.4470588235294128,['Knights and knighthood'],85
+4.43529411764706,['Astronautics'],85
+4.2941176470588234,['Electronic reference books'],85
+4.458823529411764,"['Architecture, Domestic']",85
+4.08235294117647,['Farm life'],85
+4.7261904761904781,['Embroidery'],84
+4.6547619047619042,['Meditation'],84
+3.94047619047619,['Middle East'],84
+4.1904761904761907,['Consumption (Economics)'],84
+4.4523809523809517,['Inventions'],84
+4.0238095238095246,['Byzantine Empire'],84
+4.3734939759036138,['Trademarks'],83
+4.6626506024096388,['Geometry'],83
+4.144578313253013,['Nutrition'],83
+4.3373493975903621,['Popular music'],83
+4.0602409638554224,['German Americans'],83
+4.2650602409638561,['Future life'],83
+4.6987951807228914,['Fourth Way (Occultism)'],83
+4.3132530120481913,"['Dramatists, English']",83
+4.7349397590361431,['Communication'],83
+3.5975609756097562,['Girls'],82
+3.8658536585365861,['Talking books'],82
+4.1463414634146343,['Book design'],82
+4.03658536585366,"['Asia, Central']",82
+4.1829268292682933,['Child rearing.'],82
+4.3780487804878039,['Adoption'],82
+4.0,['Technology'],81
+4.481481481481481,['Musicals'],81
+4.02469135802469,['Periodicals'],81
+4.3580246913580245,['Hallucinogenic drugs'],81
+4.2469135802469147,['Reducing diets'],81
+3.3827160493827155,['Sugar growing'],81
+3.6500000000000008,['Indic fiction (English)'],80
+4.3,"['Great Plague, London, England, 1664-1666']",80
+4.025,['Peace'],80
+4.6499999999999995,['Football'],80
+3.9625000000000004,['Arab countries'],80
+3.4250000000000003,['Waddell Dam (Ariz.)'],80
+4.7375000000000007,['Superheroes'],80
+4.325,['Creative writing'],80
+4.5316455696202542,['Airplanes'],79
+4.2405063291139227,['Marquesas Islands (French Polynesia)'],79
+4.0632911392405067,['Aunts'],79
+4.253164556962024,['Clinical medicine'],79
+4.6708860759493662,['Breast'],79
+4.3797468354430382,"['Detective and mystery comic books, strips, etc']",79
+4.3076923076923093,['Taiwan'],78
+3.9487179487179485,['New England'],78
+3.4871794871794868,['Paranormal fiction'],78
+4.1282051282051277,['Bullies'],78
+4.512820512820511,['Businesspeople'],78
+4.0641025641025657,['Sisters'],78
+4.5641025641025657,['Cousins'],78
+4.1538461538461533,['Instrumentation and orchestration'],78
+4.5974025974025974,['Fibromyalgia'],77
+4.0779220779220777,['Comedy'],77
+4.4805194805194795,['Home economics'],77
+4.5974025974025965,['Zen Buddhism'],77
+4.2337662337662341,['Reincarnation'],77
+4.4155844155844175,['American periodicals'],77
+4.7368421052631593,['Immigrants'],76
+4.44736842105263,['House buying'],76
+4.6447368421052628,['Colorado'],76
+4.0657894736842106,"['Charles, Nick (Fictitious character)']",76
+4.25,['Cuba'],76
+4.81578947368421,['Alternative medicine'],76
+3.486842105263158,['Capital punishment'],76
+4.0131578947368425,['Academic writing'],76
+4.2533333333333347,"['Education, Higher']",75
+4.1599999999999993,['CD-ROMs'],75
+3.8133333333333339,['Abused children'],75
+4.1891891891891886,['Anglo-Saxons'],74
+3.9189189189189184,['RELIGION'],74
+3.9594594594594592,['Democracy'],74
+4.3243243243243263,['Women and religion'],74
+4.2972972972972991,['Dutch language'],74
+4.1756756756756745,['Hiking'],74
+4.5945945945945947,['Statesmen'],74
+3.3243243243243241,['Imperialism'],74
+4.58108108108108,['Guerrilla warfare'],74
+4.9459459459459465,['Mental health'],74
+4.0810810810810807,['Country musicians'],74
+4.3243243243243255,['Maps'],74
+3.8082191780821915,['Intelligence service'],73
+4.5342465753424648,"['Bible stories, English']",73
+4.9315068493150696,['Fantastic fiction.'],73
+4.3287671232876717,['Young adult fiction'],73
+4.602739726027397,['God'],73
+3.958333333333333,['Nursing'],72
+4.3055555555555562,['TRAVEL'],72
+4.2500000000000009,['Automobile racing'],72
+3.7222222222222223,['Religion and science'],72
+3.4027777777777781,['Cartooning'],72
+4.7222222222222232,['Gestalt psychology'],72
+4.4999999999999991,['Breastfeeding'],72
+4.2777777777777777,['Spirit writings'],72
+1.9722222222222225,['Graduate Record Examination'],72
+4.028169014084507,['SAT (Educational test)'],71
+4.126760563380282,['Oceania'],71
+4.2957746478873249,['COMICS & GRAPHIC NOVELS'],71
+4.056338028169014,['Day trading (Securities)'],71
+4.253521126760563,['CRAFTS & HOBBIES'],71
+4.4788732394366191,['Behavior modification'],71
+4.3521126760563389,['Food supply'],71
+4.380281690140845,['Alex (Fictitious character)'],71
+4.563380281690141,['Survival'],71
+4.2816901408450709,['Dispensationalism'],71
+4.52112676056338,['Clothing trade'],71
+4.2112676056338012,['Mass media'],71
+4.352112676056338,['Channeling (Spiritualism)'],71
+4.3142857142857141,['Book industries and trade'],70
+4.2285714285714278,['Chile'],70
+2.7857142857142856,"['Political satire, American']",70
+4.07142857142857,['Creative thinking'],70
+4.6714285714285708,['Computer printers'],70
+4.4428571428571439,['Science and state'],70
+4.4285714285714288,['Examination of witnesses'],70
+2.6142857142857148,['Matter'],70
+3.5571428571428565,['Geology'],70
+4.4428571428571422,['Painting'],70
+4.3428571428571425,['North Carolina'],70
+4.2714285714285714,['Science fiction.'],70
+4.3188405797101446,"['Fantasy comic books, strips, etc']",69
+2.6086956521739135,['Electronic government information'],69
+3.1449275362318843,['Computer crimes'],69
+4.5072463768115938,['Argentina'],69
+4.18840579710145,['Change (Psychology)'],69
+4.3913043478260869,['Infants'],69
+4.4637681159420293,['Irish poetry'],69
+4.4347826086956523,['Amerikaanse fiksie'],69
+4.0869565217391308,['Consumer education'],69
+3.666666666666667,['Motherhood'],69
+3.8985507246376812,['Slavery'],69
+3.0579710144927534,['Linux'],69
+3.5147058823529416,['C# (Computer program language)'],68
+4.1470588235294112,['Algeria'],68
+4.6617647058823541,"['Napoleonic Wars, 1800-1815']",68
+4.7205882352941178,"['Airplanes, Military']",68
+4.1029411764705888,"['Civilization, Modern']",68
+4.3529411764705888,['Anatomy'],68
+4.3235294117647047,['Horticulture'],68
+3.7794117647058822,['Video games'],68
+4.3529411764705879,"['Science fiction comic books, strips, etc']",68
+3.8088235294117641,['Telecommunication'],68
+4.39705882352941,['Oregon'],68
+4.0735294117647065,['Beijing (China)'],68
+4.5588235294117636,['Indic poetry (English)'],68
+4.8059701492537306,['Spiritual healing'],67
+4.4925373134328348,['Organizational behavior'],67
+4.4029850746268648,['Football players'],67
+3.7611940298507451,['Business failures'],67
+4.641791044776121,['Dolls'],67
+4.4925373134328357,['Arts'],67
+4.08955223880597,"['Criminal justice, Administration of']",67
+4.6363636363636376,['Wine and wine making'],66
+3.6818181818181821,['Singers'],66
+4.4696969696969688,['Prisoners of war'],66
+4.3181818181818183,['Caribbean Area'],66
+4.7575757575757578,['Captain Underpants (Fictitious character)'],66
+4.0307692307692307,['Electrical engineers'],65
+2.953846153846154,['Dynamics'],65
+4.7230769230769223,"['Harlem (New York, N.Y.)']",65
+4.569230769230769,['Epic poetry'],65
+4.138461538461538,['Corporate culture'],65
+3.7999999999999994,['Poor'],65
+4.8307692307692314,['Peppers'],65
+4.5230769230769239,['Diagnosis'],65
+4.0769230769230766,['Heroes'],65
+4.3230769230769228,"['Mythology, Classical']",65
+3.5384615384615383,['Child sexual abuse'],65
+4.2031250000000009,['Color'],64
+4.3593749999999991,['Command of troops'],64
+4.03125,['Catastrophes (Geology)'],64
+4.59375,['Hunting'],64
+4.59375,['Piano'],64
+4.4062500000000009,['Debutantes'],64
+4.7343749999999991,['Collective behavior'],64
+4.2500000000000009,['Japanese'],64
+4.0952380952380949,['Spiritual life.'],63
+4.666666666666667,['Alcoholic beverages'],63
+3.8412698412698409,['Conspiracies'],63
+3.9047619047619042,['Contempt of legislative bodies'],63
+3.1746031746031749,['Computer science'],63
+4.6190476190476195,['Putting (Golf)'],63
+4.209677419354839,"['Africa, Southern']",62
+4.3870967741935489,"['Africa, East']",62
+4.5,['Almanacs'],62
+4.8064516129032278,['Alphabets'],62
+4.903225806451613,['Automobile drivers'],62
+4.338709677419355,['African American men'],62
+4.4032258064516139,['Career changes'],62
+4.6935483870967749,['Physicians'],62
+4.0806451612903221,['Philosophers'],62
+4.5806451612903221,['Belize'],62
+4.5161290322580623,['Constitutional history'],62
+4.709677419354839,['Abusive men'],62
+4.1774193548387091,"['Adventure stories, English']",62
+4.3606557377049171,['Inheritance and transfer tax'],61
+4.8196721311475406,['Holiness'],61
+4.3606557377049171,['Iran'],61
+4.3278688524590168,['Kentucky'],61
+4.6721311475409841,['Charlie (Fictitious character : Child)'],61
+4.57377049180328,['Halloween'],61
+4.2786885245901622,['Earth'],61
+4.2950819672131155,['Anthropologists'],61
+4.5573770491803272,"['Photography, Artistic']",61
+4.360655737704918,['Human beings'],61
+4.4262295081967213,['Faith'],61
+4.2166666666666659,['Boston (Mass.)'],60
+4.0333333333333323,['Beowulf'],60
+4.2333333333333343,"['Short stories, English']",60
+4.6166666666666671,['Bread'],60
+4.6166666666666671,['Bird watching'],60
+4.4833333333333334,['Photography of the nude'],60
+4.2833333333333341,['Fathers and sons'],60
+3.6833333333333327,"['Christmas stories, American']",60
+4.3728813559322033,"['Coral Sea, Battle of the, 1942']",59
+3.745762711864407,['Mennonites'],59
+3.9661016949152534,['Celts'],59
+4.71186440677966,['Missions'],59
+4.8135593220338979,['Business planning'],59
+4.3559322033898304,['Afghanistan'],59
+4.52542372881356,"[""Exiles' writings""]",59
+4.3050847457627111,['Interplanetary voyages'],59
+4.4655172413793105,['Painters'],58
+4.4827586206896557,['Dakota Indians'],58
+4.4827586206896548,['Berlin (Germany)'],58
+4.1551724137931032,['Readers for new literates'],58
+4.9482758620689653,['Sermon on the mount'],58
+4.5689655172413781,['Fortune-telling by cards'],58
+3.9310344827586206,"['Hannay, Richard (Fictitious character)']",58
+3.0862068965517242,"[""Children's poetry, English.""]",58
+4.3103448275862064,['Deep diving'],58
+3.6206896551724146,['Insurgency'],58
+2.6896551724137931,['Sex instruction for men'],58
+3.310344827586206,['Pharmacy'],58
+4.2931034482758621,['Animals in art'],58
+4.0862068965517233,['Etiquette'],58
+4.6551724137931041,['Anger'],58
+3.9310344827586192,['Aran Islands (Ireland)'],58
+4.19298245614035,['Project management'],57
+4.2631578947368434,['Origami'],57
+4.3508771929824572,['Book of Mormon'],57
+4.7719298245614024,['Censorship'],57
+4.4912280701754392,['Insects'],57
+4.5438596491228074,['Animal welfare'],57
+4.7192982456140351,['Food writing'],57
+4.2982456140350873,['Motion picture plays'],57
+4.4210526315789478,['Beer'],57
+4.3508771929824555,['Locomotives'],57
+3.9122807017543861,['Memory'],57
+4.56140350877193,['Time management'],57
+4.1428571428571415,['Fathers'],56
+4.4107142857142847,['Business presentations'],56
+3.6785714285714279,['SCIENCE'],56
+3.7857142857142856,['Job hunting'],56
+4.4642857142857144,['Bookbinding'],56
+4.9285714285714288,['Customer relations'],56
+4.32142857142857,['Herbs'],56
+4.6428571428571432,['Employment interviewing'],56
+4.6071428571428568,['Tarot'],56
+4.418181818181818,['Cinematography'],55
+4.0727272727272705,['Cemeteries'],55
+4.8000000000000007,['Hand weaving'],55
+4.1090909090909085,['Statistics'],55
+4.2909090909090919,['Journalism'],55
+4.6181818181818164,['Arka Tech'],55
+4.581818181818182,['Costume design'],55
+4.49090909090909,['Tai chi'],55
+4.5636363636363626,['Angels'],55
+4.8000000000000007,['Birthdays'],55
+4.4363636363636356,['Radio'],55
+3.9090909090909096,"['Algebras, Linear']",55
+3.8181818181818188,['Manners and customs'],55
+3.6727272727272733,['Turkey'],55
+4.1636363636363631,['Computer software'],55
+4.8181818181818183,['Missionaries'],55
+4.4545454545454541,['Aging'],55
+4.6666666666666661,['Wizards'],54
+4.7037037037037006,['Deaf'],54
+4.3333333333333339,['Astral projection'],54
+3.2037037037037033,['Boundary value problems'],54
+3.9074074074074066,"['Banks and banking, International']",54
+4.481481481481481,['Heart'],54
+3.5000000000000004,"['Law reports, digests, etc']",54
+2.4074074074074074,['Calder family (Fictitious characters)'],54
+4.3333333333333357,['Blackjack (Game)'],54
+2.1111111111111116,['Pedophilia'],54
+4.2777777777777795,['Deception'],54
+4.2222222222222223,['Demonology'],54
+4.8518518518518512,['Fire fighters'],54
+4.4074074074074083,['Dressmaking'],54
+3.8148148148148149,['Mathematical statistics'],54
+4.5094339622641515,['Legends'],53
+4.0,['Italy'],53
+4.3207547169811322,['Massachusetts'],53
+4.4339622641509449,['Arabic language'],53
+4.3207547169811322,['POLITICAL SCIENCE'],53
+4.2264150943396226,['Cotswold Hills (England)'],53
+4.6415094339622645,"[""Alzheimer's disease""]",53
+4.6346153846153859,['Eavesdropping'],52
+3.384615384615385,['African American comedians'],52
+3.8076923076923075,['Cropping systems'],52
+4.0384615384615392,['Family secrets'],52
+4.5192307692307692,['Computer algorithms'],52
+4.2307692307692308,"['Monk, William (Fictitious character)']",52
+4.5,['Roads'],52
+4.3269230769230758,['Acting'],52
+3.9999999999999996,['Opera'],52
+4.0769230769230758,"['Efficiency, Industrial']",52
+4.0192307692307692,['Library science'],52
+4.4423076923076925,['Lawyers'],52
+3.8235294117647056,['Divorce'],51
+3.5882352941176467,['COMPUTERS'],51
+4.0588235294117636,['Outdoor recreation'],51
+4.80392156862745,['Insurance agents'],51
+4.5882352941176467,['Society of Friends'],51
+4.4117647058823524,['Air travel'],51
+2.9411764705882346,['Computer technicians'],51
+4.5686274509803919,['Counting'],51
+4.5882352941176476,['Diaries'],51
+4.803921568627449,['Tales'],51
+4.3921568627450984,['Childbirth'],51
+3.9607843137254903,['Graduate Management Admission Test'],51
+4.1568627450980395,['Oceanography'],51
+4.666666666666667,['Clouds'],51
+4.5490196078431371,['Metaphysics'],51
+4.1000000000000005,['Beast of the Apocalypse'],50
+4.52,['Shipwrecks'],50
+4.3800000000000008,['Autistic children'],50
+3.7199999999999993,['Inventors'],50
