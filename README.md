@@ -1,7 +1,6 @@
 # Books analisys
-This work is made to analyse trends on the amazon book reviews dataset found on kaggle
 
-This project was made to analyze metrics of Amazon books regarding the number of reviews, authors by categories, and the average review rate of each. It also includes other relevant metrics. All of them were calculated using SQL in Google Cloud.
+This project was made to analyze metrics of Amazon books reviews dataset regarding the number of reviews, authors by categories, and the average review rate of each. It also includes other relevant metrics. All of them were calculated using SQL in Google Cloud.
 
 <sub> DATA FROM: https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=books_data.csv <sub>
 
