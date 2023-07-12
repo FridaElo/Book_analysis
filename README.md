@@ -1,7 +1,7 @@
 # Books analisys
 This work is made to analyse trends on the amazon book reviews dataset found on kaggle
 
-This project was made to analyse metrics of amazon books regarding the number of reviews, authors by categories and the average review rate of each. Also includes other relevant metrics. All of them were calculatede using SQL in google cloud.
+This project was made to analyze metrics of Amazon books regarding the number of reviews, authors by categories, and the average review rate of each. It also includes other relevant metrics. All of them were calculated using SQL in Google Cloud.
 
 <sub> DATA FROM: https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=books_data.csv <sub>
 
@@ -10,7 +10,7 @@ _Data info can be found in Kaggle._
 
 _The first table has information on the books and the second table was focused on the review info._
 
-The first query was mande to get the number of authors and book on each genre and to order the results in descending order, the results were limted to show the first 1000. 
+The first query was made to get the number of authors and books in each genre and to order the results in descending order. The results were limited to show the first 1000. 
 
 `SELECT distinct count(authors) AS number_of_authors, categories, count(Title) as number_of_books`
 
@@ -24,8 +24,7 @@ The first query was mande to get the number of authors and book on each genre an
 
 `LIMIT 1000`
  
-The second query was focused on the popularity and average review score of each category , popularity was measured by the total number of reviews left on amazon.
-It was written as shown, using a join on sql to pull values from both tables.
+The second query focused on the popularity and average review score of each category. Popularity was measured by the total number of reviews left on Amazon. It was written as shown, using a join in SQL to pull values from both tables.
 
 `SELECT AVG(review_score) as avg_score, Data.categories, count(review_score) as number_of_reviews`
 
@@ -43,9 +42,9 @@ It was written as shown, using a join on sql to pull values from both tables.
 
 `LIMIT 1000`
 
-The results show that Fiction is the genre that has the most number of reviews therefore the most popular.
+The results show that Fiction is the genre that has the most number of reviews, and therefore, the most popular.
 
-In the last query, the focus was the Fiction category, where it was group by author and was asked to shown only the authors who have more than 5000 reviews and give each of them their average rating.
+In the last query, the focus was on the Fiction category, where it was grouped by author, and only the authors who have more than 5000 reviews were shown, along with their average rating.
 
 
 `SELECT AVG_BY_A, count(Rating.User_id) as numb_of_reviews`
@@ -66,8 +65,6 @@ In the last query, the focus was the Fiction category, where it was group by aut
 
 ### CONCLUSIONS
 
-Fiction is the most popular genre for readers as it has the most number of reviews, but also it is a genre that people like to write about if the number of authors is an indication.
+Fiction is the most popular genre for readers as it has the most number of reviews, but it is also a genre that people like to write about, as indicated by the number of authors.
 
-Within that category any book rated above 4.11 wich is the average for that category, could be a good choice to add to any to-read-list. The mayor authors are J. R. R Tolkien, George Orwell and Jane Austen to name a few.
-
-
+Within that category, any book rated above 4.11, which is the average for that category, could be a good choice to add to any to-read list. The major authors are J. R. R. Tolkien, George Orwell, and Jane Austen, to name a few.
